@@ -1,4 +1,4 @@
-# Titls
+# Titles
 
 * A River Runs Through Itt
 * Fight Club
